@@ -286,7 +286,7 @@ li.line-item-summary-view-cart a:hover, li.line-item-summary-checkout a:hover { 
 -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
 
 /* Node teaser */
-.node-teaser { margin-bottom: 30px; }
+/* .node-teaser { border-bottom: 1px solid #BCCCD8; margin-bottom: 30px; } */
 
 .node-teaser h2 { margin: 0 0 20px; }
 
